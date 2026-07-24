@@ -32,19 +32,19 @@ This repository includes scripts and workflows for:
 
 ### Figure 1. Correlation between ARID1A and Trop2
 
-![ARID1A–Trop2 Pearson Correlation](figures/ARID1A%20Trop2%20Pearson%20correlation.pdf)
+![ARID1A–Trop2 Pearson Correlation](figures/ARID1A%20Trop2%20Pearson%20correlation.png)
 
 ---
 
 ### Figure 2. BigWig Visualization
 
-![BigWig Tracks](figures/BigWig.pdf)
+![BigWig Tracks](figures/BigWig.png)
 
 ---
 
 ### Figure 3. Trop2 Expression
 
-![Trop2 Expression Bar Plot](figures/Trop2%20expression%20bar%20plot.pdf)
+![Trop2 Expression Bar Plot](figures/Trop2%20expression%20bar%20plot.png)
 
 ---
 
