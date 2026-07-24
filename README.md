@@ -39,8 +39,8 @@ This repository includes scripts and workflows for:
 ### Figure 2/3. Correlation between ARID1A and Trop2 and Trop2 Expression
 
 <p align="left">
- <img src="figures/ARID1A%20Trop2%20Pearson%20correlation.png" width="300" alt="ARID1A–Trop2 Pearson Correlation">
- <img src="figures/Trop2%20expression%20bar%20plot.png" width="300" alt="Trop2 Expression Bar Plot">
+ <img src="figures/ARID1A%20Trop2%20Pearson%20correlation.png" width="200" alt="ARID1A–Trop2 Pearson Correlation">
+ <img src="figures/Trop2%20expression%20bar%20plot.png" width="200" alt="Trop2 Expression Bar Plot">
 </p>
 
 ---
